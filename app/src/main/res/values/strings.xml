@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">week3</string>
+    <string name="tv_header1">Please fill in the information</string>
+    <string name="tv_fname">First Name</string>
+    <string name="tv_lname">Lass Name</string>
+    <string name="tv_nickname">Nickname</string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_address">Address</string>
+    <string name="btn_sender">send</string>
+    <string name="btn_clear">clear</string>
+    <string name="btn_close_app">close</string>
+
+    <!--   page2  -->
+    <string name="tv_header2">result</string>
+    <string name="btn_back">back</string>
+</resources>
